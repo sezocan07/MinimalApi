@@ -4,5 +4,4 @@ _ReSharper.*
 bin
 obj
 packages
-MinimalApi/bin
-MinimalApi/obj
+
